@@ -1,4 +1,4 @@
-# Responsive Animal Charity Watches Website 🐘
+# Responsive Animal Charity Website 🐘
 
 Website Link: https://davidfrear.github.io/Responsive-Website-Animal-Charity/
 
